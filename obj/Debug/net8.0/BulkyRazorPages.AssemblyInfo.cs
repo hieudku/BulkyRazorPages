@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkyRazorPages")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b44468bf5a5aaa56fbbe8c116d31672caa815c09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f63c20dd25bfe7530d7c829f1f322d2347db1be2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkyRazorPages")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkyRazorPages")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
