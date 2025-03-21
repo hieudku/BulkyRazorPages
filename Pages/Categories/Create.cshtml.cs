@@ -19,9 +19,9 @@ namespace BulkyRazorPages.Pages.Categories
         {
         }
 
-        public IActionResult OnPost(Category obj)
+        public IActionResult OnPost()
         {
-            _db.Categories.Add(obj);
+            _db.Categories.Add(Category);
             _db.SaveChanges();
             TempData["success"] = "Category created successfully";
             return RedirectToPage("Index");
